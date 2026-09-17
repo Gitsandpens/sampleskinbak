@@ -1,0 +1,7 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+Flask-SQLAlchemy==3.1.1
+Werkzeug==3.0.3
+torch==2.3.1
+torchvision==0.18.1
+Pillow==10.4.0
